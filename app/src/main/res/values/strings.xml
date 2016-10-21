@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestFileObserver</string>
+    <string name="pick_file_to_edit_the_exif">Pick file to edit the exif</string>
+</resources>
